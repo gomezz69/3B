@@ -1,5 +1,5 @@
 body{
- background-color: white(231, 217, 237);
+ background-color: white;
  text-align: center;
 }
 h1 {
@@ -11,5 +11,5 @@ h2 {
 }
 
 .imagem {
-    width: 50%;
+    width: 100%;
 }
