@@ -4,10 +4,10 @@ body{
 }
 h1 {
     font-style: italic;
-    color: black(214, 59, 150);
+    color: black;
 }
 h2 {
-    color: white;
+    color: board;
 }
 
 .imagem {
