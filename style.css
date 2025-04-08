@@ -5,11 +5,12 @@ body{
 h1 {
     font-style: italic;
     color: black;
+ text-align: left
 }
 h2 {
     color: board;
 }
 
 .imagem {
-    width: 100%;
+    width: 45%;
 }
