@@ -1,7 +1,15 @@
 body{
-     background-color: white;
- }
+ background-color: white(231, 217, 237);
+ text-align: center;
+}
 h1 {
     font-style: italic;
-    color:black(100,99,221);
+    color: black(214, 59, 150);
+}
+h2 {
+    color: white;
+}
+
+.imagem {
+    width: 50%;
 }
