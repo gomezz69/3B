@@ -1,7 +1,7 @@
 body{
-     background-color: blue;
+     background-color: white;
  }
 h1 {
     font-style: italic;
-    color:blue(100,99,221);
+    color:black(100,99,221);
 }
