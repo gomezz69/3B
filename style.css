@@ -1,21 +1,45 @@
-body{
- background-color: gainsboro;
-
-}
-h1 {
-    font-style: italic;
-    color: black;
-}
-h2 {
-    color: red;
+body {
+    background-color: #ffffff;
+    color: #111;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-h3 {
- color:
+header {
+    background-color: #000;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: #f2f2f2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #111;
 }
 
 .imagem {
-    width: 30%;
+    width: 70%;
+    max-width: 500px;
+    margin: 20px auto;
+    display: block;
+    border: 2px solid #000;
 }
-.Timão {
- color:crimson
+
+footer {
+    background-color: #000;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
